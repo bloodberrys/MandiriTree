@@ -1,3 +1,59 @@
+MAIN ROOT:
+============
+
+ROOT
+|__article
+| |__Fitur_e-Channel_2014.pdf.html
+|
+|__documents (di sini banyak assets yang saya kira lumayan penting)
+| |__20133
+| | |__(berisi folder branch lagi)
+| | 
+| |__20143
+| | |__(berisi folder branch lagi)
+| | 
+| |__38265486
+| | |__(berisi folder branch lagi)
+| | 
+| |__38268824
+| | |__(berisi folder branch lagi)
+| | 
+| |__38273144
+|   |__(berisi folder branch lagi)
+| 
+|__e-commerce
+| |__seller-financing.html
+|
+|__e-money
+| |__cara-top-up-inheritRedirect=true.html
+|
+|__en
+| |__*.html
+|
+|__image
+| |__journal
+|   |_*.png
+| 
+|__in
+| |__web
+|   |_*.png
+|
+|__mandiri-direct-debit
+|__mandiri-online
+|__o
+|__prioritas
+|__web
+
+
+
+
+
+
+
+
+
+=============
+
 Last login: Wed Jul 22 08:26:21 on ttys000
 mymacs-MacBook-Pro:~ mymac$ cd /Users/mymac/Downloads/us.sitesucker.mac.sitesucker/www.bankmandiri.co.id/
 mymacs-MacBook-Pro:www.bankmandiri.co.id mymac$ tree
